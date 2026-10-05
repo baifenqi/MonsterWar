@@ -1,0 +1,19 @@
+# Build
+build/
+build-*/
+out/
+cmake-build-*/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+
+# CMake
+CMakeUserPresets.json
+compile_commands.json
+
+# App
+imgui.ini
+*.log
